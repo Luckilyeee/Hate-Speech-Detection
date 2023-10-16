@@ -1,4 +1,4 @@
-# The source code of the work: Achieving Hate Speech Detection on a Low Resource Setting
+# The source code of the work: Achieving Hate Speech Detection in a Low Resource Setting
 
 # Abstract
 
