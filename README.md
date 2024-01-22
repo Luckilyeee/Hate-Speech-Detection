@@ -1,4 +1,5 @@
-# The source code of the work: Achieving Hate Speech Detection in a Low Resource Setting
+# Achieving Hate Speech Detection in a Low Resource Setting
+This is the repository for my MS thesis titled "Achieving Hate Speech Detection in a Low Resource Setting". 
 
 # Abstract
 
